@@ -8,3 +8,4 @@ This is a website where you can get knowleges by practice. It's more than only b
 3. Every excersize will start with simple and short theory, which consists of 2-4 sentenses and many pictures or one video. And then you will start do simple tasks. Of course you will have breaks because our site is based on pomodoro technology.
 
 
+![2023-03-01_01-50-43](https://user-images.githubusercontent.com/84998169/222205243-6ae51575-6b7b-4e5f-815c-5b3438f2e965.png)
