@@ -16,3 +16,14 @@ This is a website where you can get knowleges by practice. It's more than only b
 ![2023-03-01_01-51-03](https://user-images.githubusercontent.com/84998169/222205753-b5ea45c4-96f8-4b2d-ad64-4b5bd56d2eee.png)
 
 ![2023-03-01_01-51-35](https://user-images.githubusercontent.com/84998169/222205792-930ed828-e5a8-40a2-93a0-f28e2b446ca4.png)
+
+5 main functions of progect are:
+1. Authorisation
+2. The page 'About us', which explains how the site works.
+3. Registration 
+4. Scrolling pages whith tasks and rules
+5. Timer
+
+For data model have used PosgreSQL. There are 2 main database: database whith people and database whith tasks. 
+ 
+
